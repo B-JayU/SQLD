@@ -3,12 +3,10 @@
 
 <html>
   <table border="1">
-    <th> 
-      Date
-      <td> sub 
-      <td> chapter 
-      <td> content
-    </th>
+    <th> Date </th>
+    <th> Sub </th>
+    <th> Chapter </th> 
+    <th> Content </th>
     <tr>
       <td> 2021-05-04 </td>
       <td> 1과목 </td>
