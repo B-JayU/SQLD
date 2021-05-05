@@ -14,20 +14,20 @@
     <tr>
       <td> 2021-05-04 </td>
       <td> 1과목 </td>
-      <td> 1장. 데이터 모델링의 이해 </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-1-1_데이터%20모델링의%20이해.md">1장. 데이터 모델링의 이해</a></td>
       <td> 1절. 데이터 모델링의 이해 </td>
     </tr>
     <tr>
       <td> 2021-05-05 </td>
       <td>  </td>
       <td>  </td>
-      <td> 2절. 엔터티 </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-1-2_엔터티.md">2절. 엔터티</a></td>
     </tr>
     <tr>
       <td> 2021-05-05 </td>
       <td>  </td>
       <td>  </td>
-      <td> 3절. 속성 </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-1-3_속성.md">3절. 속성 </td>
     </tr>
     
   </table>
