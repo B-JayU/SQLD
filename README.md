@@ -5,8 +5,8 @@
   <table border="1">
     <th> 
       Date
-      <td> # 
-      <td> ## 
+      <td> sub 
+      <td> chapter 
       <td> content
     </th>
     <tr>
