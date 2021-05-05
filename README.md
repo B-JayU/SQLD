@@ -29,6 +29,12 @@
       <td>  </td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-1-3_속성.md">3절. 속성 </td>
     </tr>
+    <tr>
+      <td> 2021-05-05 </td>
+      <td>  </td>
+      <td>  </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-1-4_관계.md">4절. 관계 </td>
+    </tr>
     
   </table>
 <html>
