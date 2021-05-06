@@ -38,7 +38,7 @@
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-1-5_식별자.md">5절. 식별자 </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-06 </td>
       <td> 1과목 </td>
       <td> 2장. 데이터모델과 성능</td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-2-1_성능데이터 모델링의 개요.md">1절. 성능데이터 모델링의 개요 </td>
