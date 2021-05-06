@@ -44,13 +44,13 @@
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-2-1_성능데이터 모델링의 개요.md">1절. 성능데이터 모델링의 개요 </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-06 </td>
       <td> </td>
       <td> </td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-2-2_정규화와 성능.md">2절. 정규화와 성능 </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-06 </td>
       <td> </td>
       <td> </td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-2-3_반정규화와 성능.md">3절. 반정규화와 성능 </td>
