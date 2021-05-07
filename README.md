@@ -56,7 +56,7 @@
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-2-3_반정규화와 성능.md">3절. 반정규화와 성능 </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-07 </td>
       <td> </td>
       <td> </td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-2-4_대량 데이터에 따른 성능.md">4절. 대량 데이터에 따른 성능 </td>
