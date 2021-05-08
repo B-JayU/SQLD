@@ -73,5 +73,59 @@
       <td> </td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-2-6_분산 데이터베이스와 성능.md">6절. 분산 데이터베이스와 성능 </td>
     </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> 2과목 </td>
+      <td> 1장. SQL 기본</td>
+      <td> 1절. 관계형 데이터베이스<a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td>  </td>
+      <td> </td>
+      <td> 2절. DDL<a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td>  </td>
+      <td> </td>
+      <td> 3절. DML <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td>  </td>
+      <td> </td>
+      <td> 4절. TCL <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td>  </td>
+      <td> </td>
+      <td> 5절. WHERE 절 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 6절. 함수 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 7절. group by, having 절 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 8절. order by 절 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 9절. 조인 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
   </table>
 <html>
