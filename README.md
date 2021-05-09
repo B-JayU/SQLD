@@ -77,7 +77,7 @@
       <td> 2021-05- </td>
       <td> 2과목 </td>
       <td> 1장. SQL 기본</td>
-      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-1_관계형 데이터베이스.md">1절. 관계형 데이터베이스</a></td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-1_관계형 데이터베이스.md">1절. 관계형 데이터베이스</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
