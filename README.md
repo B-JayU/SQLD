@@ -74,16 +74,16 @@
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/1-2-6_분산 데이터베이스와 성능.md">6절. 분산 데이터베이스와 성능 </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-09 </td>
       <td> 2과목 </td>
       <td> 1장. SQL 기본</td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-1_관계형 데이터베이스.md">1절. 관계형 데이터베이스</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-09 </td>
       <td>  </td>
       <td> </td>
-      <td> 2절. DDL<a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-2_DDL.md">2절. DDL</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
