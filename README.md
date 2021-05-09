@@ -127,5 +127,71 @@
       <td> </td>
       <td> 9절. 조인 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
     </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> 2과목</td>
+      <td> 2장. SQL 활용</td>
+      <td> 1절. 표준조인 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 2절. 집합연산자 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 3절. 계층형 질의와 셀프 조인 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 4절. 서브퀴리 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 5절. 그룹함수 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 6절. 윈도우함수 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 7절. DCL <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 8절. 절차형 SQL <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> 2과목 </td>
+      <td> 3장. SQL 최적화와 기본원리</td>
+      <td> 1절. 옵티마이저 실행계획 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 2절. 인덱스 기본 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
+    <tr>
+      <td> 2021-05- </td>
+      <td> </td>
+      <td> </td>
+      <td> 3절. 조인 수행 원리 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    </tr>
   </table>
 <html>
