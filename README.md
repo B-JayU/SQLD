@@ -89,7 +89,7 @@
       <td> 2021-05- </td>
       <td>  </td>
       <td> </td>
-      <td> 3절. DML <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+    <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-3_DML.md">3절. DML</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
