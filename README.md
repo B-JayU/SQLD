@@ -86,25 +86,25 @@
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-2_DDL.md">2절. DDL</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-09 </td>
       <td>  </td>
       <td> </td>
     <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-3_DML.md">3절. DML</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-10 </td>
       <td>  </td>
       <td> </td>
-      <td> 4절. TCL <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-4_TCL.md">4절. TCL</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-10 </td>
       <td>  </td>
       <td> </td>
       <td> 5절. WHERE 절 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-10 </td>
       <td> </td>
       <td> </td>
       <td> 6절. 함수 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
