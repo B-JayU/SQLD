@@ -101,7 +101,7 @@
       <td> 2021-05-10 </td>
       <td>  </td>
       <td> </td>
-      <td> 5절. WHERE 절 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-5_WHERE 절.md"> 5절. WHERE 절 </a></td>
     </tr>
     <tr>
       <td> 2021-05-10 </td>
