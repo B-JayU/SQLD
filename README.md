@@ -110,10 +110,10 @@
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-6_함수.md">6절. 함수</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-11 </td>
       <td> </td>
       <td> </td>
-      <td> 7절. group by, having 절 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-7_group by, having 절.md">7절. group by, having 절</a> </td>
     </tr>
     <tr>
       <td> 2021-05- </td>
