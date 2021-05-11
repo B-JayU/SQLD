@@ -116,16 +116,16 @@
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-7_group by, having 절.md">7절. group by, having 절</a> </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-11 </td>
       <td> </td>
       <td> </td>
       <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-8_order by 절.md">8절. order by 절</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-11 </td>
       <td> </td>
       <td> </td>
-      <td> 9절. 조인 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-9_조인.md">9절. 조인</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
