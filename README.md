@@ -137,7 +137,7 @@
       <td> 2021-05- </td>
       <td> </td>
       <td> </td>
-      <td> 2절. 집합연산자 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-2_집합연산자.md">2절. 집합연산자</a> </td>
     </tr>
     <tr>
       <td> 2021-05- </td>
