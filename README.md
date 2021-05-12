@@ -143,7 +143,7 @@
       <td> 2021-05- </td>
       <td> </td>
       <td> </td>
-      <td> 3절. 계층형 질의와 셀프 조인 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-3_계층형 질의와 셀프 조인.md">3절. 계층형 질의와 셀프 조인</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
