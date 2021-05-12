@@ -131,7 +131,7 @@
       <td> 2021-05- </td>
       <td> 2과목</td>
       <td> 2장. SQL 활용</td>
-      <td> 1절. 표준조인 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-1_표준조인.md">1절. 표준조인</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
