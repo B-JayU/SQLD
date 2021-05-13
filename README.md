@@ -149,7 +149,7 @@
       <td> 2021-05- </td>
       <td> </td>
       <td> </td>
-      <td> 4절. 서브퀴리 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-4_서브쿼리.md"> 4절. 서브퀴리</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
