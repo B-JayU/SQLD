@@ -161,7 +161,7 @@
       <td> 2021-05- </td>
       <td> </td>
       <td> </td>
-      <td> 6절. 윈도우함수 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-6_윈도우함수.md">6절. 윈도우함수</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
