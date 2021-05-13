@@ -128,34 +128,34 @@
       <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-1-9_조인.md">9절. 조인</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-12 </td>
       <td> 2과목</td>
       <td> 2장. SQL 활용</td>
       <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-1_표준조인.md">1절. 표준조인</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-12 </td>
       <td> </td>
       <td> </td>
       <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-2_집합연산자.md">2절. 집합연산자</a> </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-12 </td>
       <td> </td>
       <td> </td>
       <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-3_계층형 질의와 셀프 조인.md">3절. 계층형 질의와 셀프 조인</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-12 </td>
       <td> </td>
       <td> </td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-4_서브쿼리.md"> 4절. 서브퀴리</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-13 </td>
       <td> </td>
       <td> </td>
-      <td> 5절. 그룹함수 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-5_그룹함수.md">5절. 그룹함수</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
