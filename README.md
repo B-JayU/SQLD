@@ -173,7 +173,7 @@
       <td> 2021-05-14 </td>
       <td> </td>
       <td> </td>
-      <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-8_절자형 SQL.md">8절. 절차형 SQL</td>
+      <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-8_절형 SQL.md">8절. 절차형 SQL</td>
     </tr>
     <tr>
       <td> 2021-05- </td>
