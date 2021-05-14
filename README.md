@@ -158,19 +158,19 @@
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-5_그룹함수.md">5절. 그룹함수</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-13 </td>
       <td> </td>
       <td> </td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-6_윈도우함수.md">6절. 윈도우함수</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-13 </td>
       <td> </td>
       <td> </td>
       <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-7_DCL.md">7절. DCL</a></td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-14 </td>
       <td> </td>
       <td> </td>
       <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-8_절자형 SQL">8절. 절차형 SQL</td>
