@@ -167,7 +167,7 @@
       <td> 2021-05- </td>
       <td> </td>
       <td> </td>
-      <td> 7절. DCL <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
+      <td><a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-7_DCL.md">7절. DCL</a></td>
     </tr>
     <tr>
       <td> 2021-05- </td>
