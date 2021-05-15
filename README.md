@@ -176,19 +176,19 @@
       <td> <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/2-2-8_%EC%A0%88%EC%B0%A8%ED%98%95%20SQL.md">8절. 절차형 SQL</td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-15 </td>
       <td> 2과목 </td>
       <td> 3장. SQL 최적화와 기본원리</td>
       <td> 1절. 옵티마이저 실행계획 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-15 </td>
       <td> </td>
       <td> </td>
       <td> 2절. 인덱스 기본 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
     </tr>
     <tr>
-      <td> 2021-05- </td>
+      <td> 2021-05-15 </td>
       <td> </td>
       <td> </td>
       <td> 3절. 조인 수행 원리 <a href="https://github.com/YU-BYEONGJU/SQLD/blob/main/"> </td>
